@@ -22,7 +22,7 @@ node.js不仅可以用来编写服务器数据接口，也可以用来爬虫、�
 
 - [express中文官网](https://www.expressjs.com.cn/)(进阶)
 
-- ![Node.js+Express+Vue.js项目开发实战](https://item.jd.com/69315389117.html)(进阶)
+- [Node.js+Express+Vue.js项目开发实战](https://item.jd.com/69315389117.html)(进阶)
 
 ### koa
 - [koa英文官网(koa源码地址)](https://github.com/koajs/koa/)(进阶)
@@ -37,6 +37,18 @@ node.js不仅可以用来编写服务器数据接口，也可以用来爬虫、�
 
 - [egg官网](https://eggjs.org/zh-cn/intro/quickstart.html)(进阶)
 
+
+### 一些常用的npm插件
+
+**mysql2**: 用来连接mysql数据库的node.js插件
+
+**sequelize**: node.js的orm插件
+
+**dateformat**: 日期格式插件
+
+**async**: 异步的函数式插件
+
+**jsonwebtoken**: token校验插件
 
 ### 更多关于node的资源
 
